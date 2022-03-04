@@ -40,3 +40,13 @@ body{
     text-decoration: line-through;
     letter-spacing: 1rem;
 }
+
+.second-text{
+    width: 30%;
+    margin: .5rem auto;
+    border: 0.05rem solid #0d0d0d;
+}
+
+.second-text p{
+    text-align: center;
+}
