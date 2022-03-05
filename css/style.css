@@ -65,7 +65,8 @@ body{
     width: 100%;
 }
 
-.container h3{
+.container h3,
+.container h5{
     text-align: center;
     margin-top: 2rem;
     text-decoration: line-through;
