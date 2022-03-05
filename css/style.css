@@ -72,3 +72,11 @@ body{
 .second-text p{
     text-align: center;
 }
+
+footer{
+    text-align: center;
+    font-size: 2rem;
+    color: #8EECF5;
+    background-color: blueviolet;
+    padding: .5rem;
+}
