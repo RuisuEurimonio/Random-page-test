@@ -18,7 +18,7 @@ Este es un respositorio hecho para hacer pruebas y actividades siguiendo un curs
 ##### Reitero, no prestar atención a este repositorio, flujo basado en las clases del curso de [platzi](https://platzi.com/cursos/git-github/)
 
 
-~~<h2 align="center"> Gracias por leer  </h2>~~
+~~<h2 align="center"> - Gracias por leer. - </h2>~~
 
 <div align="center">
 <img src="https://c.tenor.com/DLbH0i7N7yIAAAAd/bay-anime-bye-anime.gif"/>
