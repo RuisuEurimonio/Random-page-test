@@ -12,7 +12,7 @@ Este es un respositorio hecho para hacer pruebas y actividades siguiendo un curs
 ### Contenido:
 - text.txt: Un archivo de texto plano con información aleatoria.
 - anime.html: Un archivo html con texto de relleno en idioma jápones generado por una [pagina](https://generator.lorem-ipsum.info/_japanese).
-- css/style.css: un archivo de estilos para aplicar en anime.html
+- css/style.css: Archivo de estilos para aplicar en anime.html.
 - imagenes/anime.jpg: Archivo binario usado para el logo en la cabecera.
 
 ##### Reitero, no prestar atención a este repositorio, flujo basado en las clases del curso de [platzi](https://platzi.com/cursos/git-github/)
