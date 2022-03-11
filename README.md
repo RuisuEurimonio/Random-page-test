@@ -2,7 +2,7 @@
 # Random Page with HTML and CSS for a class.
 
 <div align="center">
-<img src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097687.png?token=exp=1646535169~hmac=ae58392941d74169b4aec430c8a0065d" width="150px">
+<img src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097687.png?token=exp=1646973103~hmac=c4a48e6054ab761f80a33ed018fc9530" width="150px">
 </div>
 
 ## Sobre este repositorio:
